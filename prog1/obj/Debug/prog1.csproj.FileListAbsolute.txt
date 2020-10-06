@@ -1,10 +1,19 @@
-C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\prog1.exe.config
-C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\prog1.exe
-C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\prog1.pdb
-C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.csprojAssemblyReference.cache
 C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.Properties.Resources.resources
 C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.csproj.GenerateResource.cache
 C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
-C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.exe
-C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.pdb
 C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\prog1.FormNofS.resources
+C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\Printing numbers on stickers 60x40.exe.config
+C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\Printing numbers on stickers 60x40.exe
+C:\Users\Михаил\source\repos\prog1\prog1\bin\Debug\Printing numbers on stickers 60x40.pdb
+C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\Printing numbers on stickers 60x40.exe
+C:\Users\Михаил\source\repos\prog1\prog1\obj\Debug\Printing numbers on stickers 60x40.pdb
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\bin\Debug\Printing numbers on stickers 60x40.exe.config
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\bin\Debug\Printing numbers on stickers 60x40.exe
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\bin\Debug\Printing numbers on stickers 60x40.pdb
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.FormNofS.resources
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\Printing numbers on stickers 60x40.exe
+C:\Users\Михаил\source\repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\Printing numbers on stickers 60x40.pdb

@@ -154,12 +154,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(0, 9);
+            this.label1.Location = new System.Drawing.Point(27, 9);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(116, 13);
+            this.label1.Size = new System.Drawing.Size(89, 13);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Номер начала печати";
+            this.label1.Text = "Print start number";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // BoxKN
@@ -176,11 +176,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(122, 9);
+            this.label2.Location = new System.Drawing.Point(134, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(113, 13);
+            this.label2.Size = new System.Drawing.Size(101, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Количество номеров";
+            this.label2.Text = "Quantity of numbers";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // printB
@@ -192,7 +192,7 @@
             this.printB.Name = "printB";
             this.printB.Size = new System.Drawing.Size(101, 68);
             this.printB.TabIndex = 5;
-            this.printB.Text = "Печать";
+            this.printB.Text = "Print";
             this.printB.UseVisualStyleBackColor = false;
             this.printB.Click += new System.EventHandler(this.printB_Click);
             // 
