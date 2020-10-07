@@ -97,7 +97,7 @@ namespace prog1
             {
                 curLine = Convert.ToString(dataGridView1[0, counter].Value);
                 e.Graphics.DrawString(curLine, myFont, Brushes.Black,
-                  1, 30, new StringFormat());
+                  0, 30, new StringFormat());
                 counter++;
                 i++;
             }
