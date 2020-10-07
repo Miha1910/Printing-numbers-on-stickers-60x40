@@ -46,20 +46,23 @@ namespace prog1
 
         private void CreatNB_Click(object sender, EventArgs e)
         {
-           
+            
             if (BoxKN.Text == "") { BoxKN.Text = "0"; }
             if (BoxNP.Text == "") { BoxNP.Text = "0"; }
             for (int id = knd; id >= 1; id--)
             {
                 dataGridView1.Rows.RemoveAt(0);
+                progressBar1.Value--;
             }
             int limiter = 0;
             if ((Convert.ToInt32(BoxKN.Text) + Convert.ToInt32(BoxNP.Text)) > 10000 ) { limiter = Convert.ToInt32(BoxKN.Text) + Convert.ToInt32(BoxNP.Text) - 10000; }
             int kn = Convert.ToInt32(BoxKN.Text) - limiter;
+            progressBar1.Maximum = kn;
             for (int i = 0; i < kn; i++)
             {
                 int a = Convert.ToInt32(BoxNP.Text);
                 dataGridView1.Rows.Add((a+kn-1)-i, 0);
+                progressBar1.Value++;
             }
             knd = kn;
             int rows = dataGridView1.RowCount;
@@ -131,6 +134,7 @@ namespace prog1
 
         private void BoxNP_KeyPress(object sender, KeyPressEventArgs e)
         {
+
             char number = e.KeyChar;
             if (!Char.IsDigit(number) && number != 8) 
             {
@@ -179,6 +183,11 @@ namespace prog1
             {
                 printB.Enabled = false;
             }
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Miha1910");
         }
     }
 }
