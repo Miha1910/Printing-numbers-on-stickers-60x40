@@ -70,6 +70,32 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Properties\DataSources\System.Drawing.Printing.InvalidPrinterException.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.Margins.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.MarginsConverter.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PageSettings.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PaperSize.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PaperSource.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PreviewPageInfo.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PreviewPrintController.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintController.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintDocument.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterResolution.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterSettings+PaperSizeCollection.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterSettings+PaperSourceCollection.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterSettings+PrinterResolutionCollection.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterSettings+StringCollection.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterSettings.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrinterUnitConvert.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintEventArgs.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintEventHandler.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintingPermission.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintingPermissionAttribute.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintPageEventArgs.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.PrintPageEventHandler.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.QueryPageSettingsEventArgs.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.QueryPageSettingsEventHandler.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.Printing.StandardPrintController.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -85,6 +111,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1234.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
