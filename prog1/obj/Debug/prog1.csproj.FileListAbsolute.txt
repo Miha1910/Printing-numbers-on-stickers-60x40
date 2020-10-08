@@ -8,3 +8,5 @@ C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\obj\
 C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\Printing numbers on stickers 60x40.exe
 C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\Printing numbers on stickers 60x40.pdb
 C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\obj\Debug\prog1.csprojAssemblyReference.cache
+C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\bin\Debug\Printing numbers on stickers 60x40.exe.CodeAnalysisLog.xml
+C:\Users\Михаил\Source\Repos\Printing-numbers-on-stickers-60x40\prog1\bin\Debug\Printing numbers on stickers 60x40.exe.lastcodeanalysissucceeded
